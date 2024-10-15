@@ -7,4 +7,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="material_dynamic_neutral_variant40">#7f0501c1</color>
+    <color name="kaduna_poly_green">#008000</color>
 </resources>

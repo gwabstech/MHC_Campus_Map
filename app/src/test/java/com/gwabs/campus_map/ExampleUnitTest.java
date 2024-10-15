@@ -1,4 +1,4 @@
-package com.example.mhccampusmap;
+package com.gwabs.campus_map;
 
 import org.junit.Test;
 
